@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
     'authentication',
     'rest_framework',
-    'frontend'
+    'urbanplay_clone_front'
 ]
 
 REST_FRAMEWORK = {
