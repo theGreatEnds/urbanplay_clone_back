@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     'authentication',
     'rest_framework',
+    'frontend'
 ]
 
 REST_FRAMEWORK = {
