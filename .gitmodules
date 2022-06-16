@@ -1,0 +1,3 @@
+[submodule "urbanplay_clone_front"]
+	path = urbanplay_clone_front
+	url = https://github.com/theGreatEnds/urbanplay_clone_front.git
