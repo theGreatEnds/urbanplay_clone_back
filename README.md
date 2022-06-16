@@ -22,4 +22,4 @@ urbanplay_clone_back 안에 urbanplay_clone_front가 submodule로 포함되어 �
     cd urbanplay_clone_front
     npm run build
     
-urbanplay_clone_front 레포지토리 안에서 build를 실행해주게 되면 webpack --config webpack.config.js 명령이 자동으로 실행됩니다.
+urbanplay_clone_front 레포지토리 안에서 build를 실행해주게 되면 `webpack --config webpack.config.js` 명령이 자동으로 실행됩니다.
