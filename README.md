@@ -17,3 +17,7 @@ urbanplay_clone_back 레포지토리는 Django RESTFramework 로 구축되었습
 
     python manage.py runserver
 
+urbanplay_clone_back 안에 urbanplay_clone_front가 submodule로 포함되어 있는 형태입니다. 그러므로 frontend 코드도 build 해줄 필요가 있는데, 이 때 사용하는 명령어는 아래와 같습니다.
+
+    urbanplay_clone_front> npm run build
+    
